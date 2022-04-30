@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/Ahsan786"><img src="https://api.daily.dev/devcards/d8dfe0327ba24995998042726ccae6cc.png?r=u9m" width="400" alt="Ahsan Syed's Dev Card"/></a>
+<a href="https://app.daily.dev/Ahsan786"><img src="https://github.com/ahsanali17/ahsanali17/blobl/master/devcard.svg" width="400" alt="Ahsan Syed's Dev Card"/></a>
