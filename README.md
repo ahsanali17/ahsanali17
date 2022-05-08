@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali Syed</h1>
 <h3 align="center">A passionate developer from Canada!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayaadhav10&label=Profile%20views&color=0e75b6&style=flat" alt="ajayaadhav10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanali17&label=Profile%20views&color=0e75b6&style=flat" alt="ahsanali17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajayaadhav10" alt="ajayaadhav10" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsanali17" alt="ahsanali17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahsansalisyed" target="blank"><img src="https://img.shields.io/twitter/follow/ajayaadhav?logo=twitter&style=for-the-badge" alt="ajayaadhav" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ahsansalisyed" target="blank"><img src="https://img.shields.io/twitter/follow/ahsansalisyed?logo=twitter&style=for-the-badge" alt="ahsanali17" /></a> </p>
 
 - 🔭 I’m currently attending [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
 
