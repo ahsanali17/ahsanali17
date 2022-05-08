@@ -32,5 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajayaadhav10&show_icons=true&locale=en" alt="ajayaadhav10" /></p>
 
+[![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahsanali17)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://app.daily.dev/Ahsan786"><img src="https://api.daily.dev/devcards/d8dfe0327ba24995998042726ccae6cc.png?r=u9m" width="400" alt="Ahsan Syed's Dev Card"/></a>
