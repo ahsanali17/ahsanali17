@@ -15,9 +15,9 @@
 
 - 👨‍💻 All of my projects are available at [REDACTED]()
 
-- ⚡ Fun fact **Gym freak**
+- ⚡ Fun fact **Did you know Mother Nature loves evolving animals into crabs**
 
-- 💬 Don't ask me about **Patricia Merkle Trees** :(
+- 💬 Please don't ask me about **Patricia Merkle Trees** :(
 
 - 📫 How to reach me **ahsantime1@gmail.com**
 
