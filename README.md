@@ -7,9 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/ahsansalisyed" target="blank"><img src="https://img.shields.io/twitter/follow/ahsansalisyed?logo=twitter&style=for-the-badge" alt="ahsansalisyed" /></a> </p>
 
+- 🔭 I’m currently attending [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
+
 - 🌱 I’m currently learning **Blockchain fundamentals & Solidity smart-contracts**
 
-- 💬 Ask me about **Patricia Merkle Trees**
+- 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
+
+- 👨‍💻 All of my projects are available at []()
+
+- ⚡ Fun fact **Gym freak**
+
+- 💬 Don't ask me about **Patricia Merkle Trees** :(
 
 - 📫 How to reach me **ahsantime1@gmail.com**
 
