@@ -7,7 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ahsansalisyed" target="blank"><img src="https://img.shields.io/twitter/follow/ahsansalisyed?logo=twitter&style=for-the-badge" alt="ahsansalisyed" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain & Solidity**
+- 🌱 I’m currently learning **Blockchain fundamentals & Solidity smart-contracts**
+
+- 💬 Ask me about **Patricia Merkle Trees**
 
 - 📫 How to reach me **ahsantime1@gmail.com**
 
@@ -24,6 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsanali17&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ahsanali17" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsanali17&show_icons=true&theme=tokyonight&locale=en" alt="ahsanali17" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanali17&theme=dark" alt="ahsanali17" /></p>
 
 <a href="https://app.daily.dev/Ahsan786"><img src="https://api.daily.dev/devcards/d8dfe0327ba24995998042726ccae6cc.png?r=u9m" width="400" alt="Ahsan Syed's Dev Card"/></a>
 
