@@ -13,7 +13,7 @@
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
-- 👨‍💻 All of my projects are available at []()
+- 👨‍💻 All of my projects are available at [REDACTED]()
 
 - ⚡ Fun fact **Gym freak**
 
