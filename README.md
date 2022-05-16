@@ -37,7 +37,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahsanali17&theme=dark" alt="ahsanali17" /></p>
 
-<a href="https://app.daily.dev/Ahsan786"><img src="https://api.daily.dev/devcards/d8dfe0327ba24995998042726ccae6cc.png?r=u9m" width="400" alt="Ahsan Syed's Dev Card"/></a>
+<a href="https://app.daily.dev/Ahsan786"><img src="https://api.daily.dev/devcards/d8dfe0327ba24995998042726ccae6cc.png?r=prx" width="400" alt="Ahsan Syed's Dev Card"/></a>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/ahsanali"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/ahsanali" /></a></p><br><br>
