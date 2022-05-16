@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently attending [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
 
+- ⌨️ I'm also participating in [Alchemy's Hackathon](https://discord.gg/8bFszZ8h) happening right now on discord!  
+
 - 🌱 I’m currently learning **Blockchain fundamentals & Solidity smart-contracts**
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
