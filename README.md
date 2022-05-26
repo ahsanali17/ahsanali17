@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently attending [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
 
-- ⌨️ I'm also participating in [Alchemy's Hackathon](https://discord.gg/8bFszZ8h) happening right now on discord!  
+- ⌨️ I'm also participating in [Alchemy's Bootcamp](https://discord.gg/8bFszZ8h) happening right now on discord!  
 
 - 🌱 I’m currently learning **Blockchain fundamentals & Solidity smart-contracts**
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [REDACTED]()
+- 👨‍💻 All of my projects are available at [COMING SOON]()
 
-- ⚡ Fun fact **Did you know Mother Nature loves evolving animals into crabs**
+- ⚡ Fun fact **Given enough time other great apes will evolve and perhaps look similar to humans thousands of years from now**
 
-- 💬 Please don't ask me about **Patricia Merkle Trees** :(
+- 💬 Please don't ask me about **what I think I will be doing in 5 years, idk**
 
 - 📫 How to reach me **ahsantime1@gmail.com**
 
