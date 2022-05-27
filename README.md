@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Ali Syed</h1>
-<h3 align="center">A passionate frontend developer from Canada</h3>
+<h3 align="center">A passionate full-stack developer from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanali17&label=Profile%20views&color=80db24&style=plastic" alt="ahsanali17" /> </p>
 
