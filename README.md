@@ -11,17 +11,19 @@
 
 - ⌨️ I'm also participating in [Alchemy's Bootcamp](https://discord.gg/8bFszZ8h) happening right now on discord!  
 
-- 🌱 I’m currently learning **Blockchain fundamentals & Solidity smart-contracts**
+- 🌱 I’m currently learning about **Multi-signature wallets**
+
+- 🔨 I'm building *****
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [COMING SOON]()
 
-- ⚡ Fun fact **Given enough time other great apes will evolve and perhaps look similar to humans thousands of years from now**
+- ⚡ Fun fact ****
 
-- 💬 Please don't ask me about **what I think I will be doing in 5 years, idk**
+- 💬 Where will I be in 5 years? : Hmmm maybe on a boat fishing or at a wedding.
 
-- 📫 How to reach me **ahsantime1@gmail.com**
+- 📫 How to reach me **ahsantime1@gmail.com** | []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
