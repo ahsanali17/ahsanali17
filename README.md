@@ -11,9 +11,9 @@
 
 - ⌨️ I'm also participating in [Alchemy's Bootcamp](https://discord.gg/8bFszZ8h) happening right now on discord!  
 
-- 🌱 I’m currently learning about **Multi-signature wallets**
+- 🌱 I’m currently learning about **Proxy contracts and Proxy factory contracts**
 
-- 🔨 I'm building *****
+- 🔨 I'm building **DAO Registry** 
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
