@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [COMING SOON]()
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **Aliens exist**
 
 - 💬 Where will I be in 5 years? : Hmmm maybe on a boat fishing or at a wedding.
 
