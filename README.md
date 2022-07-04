@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning about **Proxy contracts and Proxy factory contracts**
 
-- 🔨 I'm building **DAO Registry** 
+- 🔨 I'm building **[DAO Registry](https://github.com/ahsanali17/DAO-Registry)** 
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
