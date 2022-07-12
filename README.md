@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently attending [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
 
-- ⌨️ I'm also participating in [Alchemy's Bootcamp](https://discord.gg/8bFszZ8h) happening right now on discord!  
+- ⌨️ I'm also participating in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
 
-- 🌱 I’m currently learning about **Proxy contracts and Proxy factory contracts**
+- 🌱 I’m currently learning about **Integrating IPFS with a smart contract**
 
 - 🔨 I'm building **[DAO Registry](https://github.com/ahsanali17/DAO-Registry)** 
 
