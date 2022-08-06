@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahsansalisyed" target="blank"><img src="https://img.shields.io/twitter/follow/ahsansalisyed?logo=twitter&style=for-the-badge" alt="ahsansalisyed" /></a> </p>
 
-- 🔭 I’m currently attending [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
+- 🔭 I’ve recently completed [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
 
-- ⌨️ I'm also participating in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
+- ⌨️ I'm also participated in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
 
 - 🌱 I’m currently learning about **Integrating IPFS with a smart contract**
 
-- 🔨 I'm building **[DAO Registry](https://github.com/ahsanali17/DAO-Registry)** 
+- 🔨 I'm still building **[DAO Registry](https://github.com/ahsanali17/DAO-Registry)** 
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
