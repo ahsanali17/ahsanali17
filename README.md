@@ -9,7 +9,7 @@
 
 - 🔭 I’ve recently completed [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
 
-- ⌨️ I'm also participated in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
+- ⌨️ Participated in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
 
 - 🌱 I’m currently learning about **Integrating IPFS with a smart contract**
 
