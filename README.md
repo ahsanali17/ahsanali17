@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ahsansalisyed" target="blank"><img src="https://img.shields.io/twitter/follow/ahsansalisyed?logo=twitter&style=for-the-badge" alt="ahsansalisyed" /></a> </p>
 
-- 🔭 I’ve recently completed [Chainshots bootcamp](https://www.chainshot.com/bootcamp)
+- 🔭 I’ve completed [Chainshots bootcamp](https://www.chainshot.com/bootcamp) & [Encode Clubs ETHDenver Solidity Bootcamp](https://www.encode.club/solidity-bootcamps)
 
 - ⌨️ Participated in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
 
-- 🌱 I’m currently learning about **Integrating IPFS with a smart contract**
+- 🌱 I’m currently learning about **ZK Proofs**
 
-- 🔨 I'm still building **[DAO Registry](https://github.com/ahsanali17/DAO-Registry)** 
+- 🔨 I'm still building projects on my own time. 
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Aliens exist**
 
-- 💬 Where will I be in 5 years? : Hmmm maybe on a boat fishing or at a wedding.
+- 💬 Where will I be in 5 years? : Probably in a bunker avoiding nuclear fallout, jk, probably on a boat, fishing,
 
 - 📫 How to reach me **ahsantime1@gmail.com** | []()
 
