@@ -17,7 +17,7 @@
 
 - 👯 My Area of Interest's are **Full-Stack Web Development, Solidity Smart-contracts & Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [COMING SOON]()
+- 👨‍💻 All of my projects are available at [my portfolio website](https://ahsansyed.com/)
 
 - ⚡ Fun fact **Aliens exist**
 
