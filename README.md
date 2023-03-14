@@ -11,7 +11,7 @@
 
 - ⌨️ Participated in [ETHGlobals HackFS](https://ethglobal.com/events/hackfs2022/prizes#) 
 
-- 🌱 I’m currently learning about **ZK Proofs**
+- 🌱 I’m currently learning about **smart contract researching**
 
 - 🔨 I'm still building projects on my own time. 
 
